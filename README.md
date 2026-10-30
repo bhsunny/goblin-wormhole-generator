@@ -3,7 +3,7 @@
   <h1>地精虫洞发生器</h1>
   <p><b>Goblin Wormhole Generator</b></p>
   <p>受够了直联的高延迟，专门为《Azeroth Survivors》打造的低延迟联机启动器，把 300ms+ 压到 30ms 级</p>
-  <a>点击下载<a href="https://github.com/bhsunny/goblin-wormhole-generator/releases/download/v1.1.0/v1.1.exe"></a>
+  <a href="https://github.com/bhsunny/goblin-wormhole-generator/releases/download/v1.1.0/v1.1.0.exe">点击下载</a>
 </div>
 
 ---
