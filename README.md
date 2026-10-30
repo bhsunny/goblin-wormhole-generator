@@ -2,7 +2,8 @@
   <img src="icon.png" width="120" alt="logo">
   <h1>地精虫洞发生器</h1>
   <p><b>Goblin Wormhole Generator</b></p>
-  <p>为《Azeroth Survivors》打造的低延迟联机启动器 —— 绕过境外中继，把 300ms+ 压到 30ms 级</p>
+  <p>受够了直联的高延迟，专门为《Azeroth Survivors》打造的低延迟联机启动器，把 300ms+ 压到 30ms 级</p>
+  <p>点击下载 [Releases](../../releases)  `地精虫洞发生器.exe`</p>
 </div>
 
 ---
