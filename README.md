@@ -55,23 +55,6 @@
 3. 主机运行程序 → 选择 `AzerothSurvivors.exe` → 选「主机」→ 启动游戏 → 把显示的 IP 发给朋友
 4. 朋友选「客户机」→ 填主机 IP → 启动游戏
 
-> 主机开房后**不要关闭游戏窗口**；游戏启动后**本程序可以关闭**。
-
-### 开发者
-
-```bash
-pip install pywebview pillow pyinstaller
-python Goblin-Wormhole-Generator.py        # 直接运行
-```
-
-构建单文件 exe：
-
-```bash
-python -m PyInstaller --noconfirm --clean --onefile --windowed \
-  --name 地精虫洞发生器 --icon icon.ico --add-data "icon_b64.txt;." \
-  Goblin-Wormhole-Generator.py
-```
-
 ## 兼容性
 
 - Windows 10 / 11 x64
@@ -82,7 +65,9 @@ python -m PyInstaller --noconfirm --clean --onefile --windowed \
 
 - 仅支持 TCP 直连，需要虚拟组网或公网可达
 - 不修改游戏文件，不提供任何游戏资源
-- 游戏更新可能改变环境变量行为
+- 游戏更新可能改变环境变量行为，开发实测游戏版本v0.129.0
+- 确保防火墙放行端口，默认7777
+
 
 ## 免责声明
 
